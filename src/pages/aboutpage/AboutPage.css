@@ -1,0 +1,19 @@
+.Grid {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+}
+.cartStyle {
+  /* border: 1px solid black; */
+  overflow: wrap;
+  width: 20%;
+  margin: 10px;
+  border-radius: 10%;
+  background-color: green;
+  color: white;
+}
+.textStyle {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
